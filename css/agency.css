@@ -195,8 +195,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #3D8B37;
+    background-color: #3D8B37;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -290,6 +290,9 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    background-color: #fed136;
+    border-radius: 5px;
+    padding: 6px;
 }
 
 header .intro-text .intro-heading {
